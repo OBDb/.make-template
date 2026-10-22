@@ -13,7 +13,7 @@ permissions:
 
 # Make prefixes for this repo
 env:
-  FILTER_ARGS: --filter-prefix=Make1- --filter-prefix=Make2-
+  FILTER_ARGS: --filter-prefix=Make-
   SIGNAL_PREFIX: MAKE
 
 concurrency:
